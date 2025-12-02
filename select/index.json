@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Believer",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-02T10:06:38.334547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/01_Believer_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Delete the Believer",
+      "artist": "Secret Band",
+      "has_synced": true,
+      "path": "select/02_Delete_the_Believer_Secret_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BELIEVER",
+      "artist": "M.I.A.",
+      "has_synced": false,
+      "path": "select/03_BELIEVER_M.I.A..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Make Believer",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/04_Make_Believer_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Believer",
+      "artist": "Susanna and the Magical Orchestra",
+      "has_synced": true,
+      "path": "select/05_Believer_Susanna_and_the_Magical_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Midnight Believer",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/06_Midnight_Believer_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Believer",
+      "artist": "Place Vendome",
+      "has_synced": true,
+      "path": "select/07_Believer_Place_Vendome.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "believer",
+      "artist": "Yung Kayo",
+      "has_synced": false,
+      "path": "select/08_believer_Yung_Kayo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Believer",
+      "artist": "Kate Ryan",
+      "has_synced": true,
+      "path": "select/09_Believer_Kate_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Filthy Believer",
+      "artist": "BEA1991",
+      "has_synced": false,
+      "path": "select/10_Filthy_Believer_BEA1991.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Non Believer",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/11_Non_Believer_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Walk Believer Walk",
+      "artist": "The Black Crowes",
+      "has_synced": false,
+      "path": "select/12_Walk_Believer_Walk_The_Black_Crowes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Believer",
+      "artist": "Black Honey",
+      "has_synced": true,
+      "path": "select/13_Believer_Black_Honey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Without a Believer",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/14_Without_a_Believer_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hard Believer",
+      "artist": "First Aid Kit",
+      "has_synced": true,
+      "path": "select/15_Hard_Believer_First_Aid_Kit.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Believer",
+      "artist": "Goldfrapp",
+      "has_synced": true,
+      "path": "select/16_Believer_Goldfrapp.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "True Believer",
+      "artist": "Ultravox",
+      "has_synced": false,
+      "path": "select/17_True_Believer_Ultravox.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_01_Believer_Imagine_Dragons.txt"
+    }
+  ]
+}
