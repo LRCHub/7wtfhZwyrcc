@@ -1,101 +1,79 @@
-# Imagine Dragons – Believer
+# イマジン・ドラゴンズ – ビリーヴァー
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
 First things first
-I'ma say all the words inside my
-head
-I'm fired up and tired of the
-way that things have been, oh
-ooh
-The way that things have been,
-oh ooh
-Second thing
-Second, don't you tell me what
-you think that I can be
-I'm the one at the sail, I'm the
-master of my sea, oh ooh
-The master of my sea, oh ooh
+I'm gonna say all the words inside my head
+I'm fired up and tired of the way that
+things have been
+The way that things have been
+Second things second
+Don't you tell me what you think that I could be
+I'm the one at the sail,
+I'm the master of my sea
+The master of my sea
 I was broken from a young age
-Taking my soul into the masses
-Write down my poems for the few
-That looked at me took to me,
+Taken my sulking to the masses
+Writing my poems for the few
+that look to me, took to me,
 shook to me, feeling me
-Singing from heart ache from the
-pain
-Take up my message from the
-veins
-Speaking my lesson from the
-brain
+Singing from heartache from the pain
+Taking my message from the veins
+Speaking my lesson from the brain
 Seeing the beauty through the
-You made me a, you made me a
+Pain
+You made me a, you made me a believer, believer
+Pain
+You break me down and build me up,
 believer, believer
-(Pain, pain)
-You break me down, you build me
-up, believer, believer
-(Pain)
-I let the bullets fly, oh let
-them rain
-My luck, my love, my God, they
-came from
-(Pain)
-You made me a, you made me a
-believer, believer
+Pain
+Oh, let the bullets fly oh let them rain
+My life my love my drive it came from
+Pain
+You made me a, you made me a believer, believer
 Third things third
-Send a prayer to the ones up
-above
+Send a prayer to the ones up above
 All the hate that you've heard
-has turned your spirit to a
-dove, oh ooh
-Your spirit up above, oh ooh
+has turned your spirit to a dove
+Your spirit up above
 I was choking in the crowd
-Living my brain up in the cloud
+Building my rain up in the cloud
 Falling like ashes to the ground
-Hoping my feelings, they would
-drown
+Hoping my feelings, they would drown
 But they never did, ever lived,
 ebbing and flowing
-Inhibited, limited
-Till it broke up and it rained
-down
-It rained down, like
-You made me a, you made me a
+Inhibited, limited, till it broke open
+And rained down
+And rained down like
+Pain
+You made me a, you made me a believer, believer
+Pain
+You break me down and build me up,
 believer, believer
-(Pain, pain)
-You break me down, you built me
-up, believer, believer
-(Pain)
-I let the bullets fly, oh let
-them rain
-My luck, my love, my God, they
-came from
-(Pain)
-You made me a, you made me a
-believer, believer
+Pain
+Oh, let the bullets fly oh let them rain
+My life my love my drive it came from
+Pain
+You made me a, you made me a believer, believer
 Last things last
-By the grace of the fire and the
-flames
-You're the face of the future,
-the blood in my veins, oh ooh
-The blood in my veins, oh ooh
-But they never did, ever lived,
-ebbing and flowing
-Inhibited, limited
-Till it broke up and it rained
-down
-It rained down, like
-You made me a, you made me a
+By the grace of the fire and the flame
+You're the face of the future
+The blood in my veins
+The blood in my veins
+But they never did, ever lived, ebbing
+and flowing
+Inhibited, limited, till it broke open
+And rained down
+And rained down like
+Pain
+You made me a, you made me a believer, believer
+Pain
+You break me down and build me up,
 believer, believer
-(Pain, pain)
-You break me down, you built me
-up, believer, believer
-(Pain)
-I let the bullets fly, oh let
-them rain
-My luck, my love, my God, they
-came from
-(Pain)
-You made me a, you made me a
-believer, believer
+Pain
+Oh, let the bullets fly oh let them rain
+My life my love my drive it came from
+Pain
+You made me a, you made me a believer, believer
 ```
